@@ -18,6 +18,7 @@ I love crafting robust solutions and exploring new technologies. Whether it's ba
 
 ## 🌐 Connect with Me
 
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white&style=for-the-badge)](https://www.patreon.com/c/ShirosLFS)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/LoneForgeST)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@LoneForgeST)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/loneforgest)
